@@ -97,9 +97,11 @@ The model demonstrates high predictive performance (~96% accuracy) on a multi-cl
 
 ## 🔍 Future Work
 
-- Add public datasets (or link to TCGA, GEO, etc.)
-- Improve model generalization with cross-validation
-- Expand to pan-cancer predictions with clinical metadata
+- **Integrate Public Datasets**: Incorporate widely used, publicly available datasets such as:
+  - [TCGA (The Cancer Genome Atlas)](https://www.cancer.gov/tcga): Rich source of multi-omics cancer data including gene expression, mutations, and clinical outcomes.
+  - [GEO (Gene Expression Omnibus)](https://www.ncbi.nlm.nih.gov/geo/): Repository of transcriptomics datasets across various conditions and platforms.
+  - [ICGC (International Cancer Genome Consortium)](https://dcc.icgc.org/): Offers whole-genome sequences and other omics data for diverse cancer types.
+
 
 ---
 
